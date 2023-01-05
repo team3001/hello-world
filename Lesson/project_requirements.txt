@@ -1,1 +1,55 @@
+Q)What do we need to build? 
+A)Student Attendance Management System
 
+Q)What are the users for the app
+A)Users: Students, Lecturers, Adminstrators
+
+Q)What do our users use the app for?
+Students
+-Check and Capture their attendance for a lesson they are attending
+-Summary of their attendance for all modules
+-Set alarms for reminders in the application
+-Apply for excuse and Upload documetation
+
+Lecturers
+-view and amend Students’ attendances
+-view a summary of a particular lesson 
+-view overall attendance and pertinent statistics for a trimester 
+-amend a Student’s attendance status for a particular lesson up till midnight of the lesson day.
+
+Adminstrators
+-Set up the lessons time and location as well as the associated student lists.
+-view a summary of a particular lesson 
+-view overall attendance and pertinent statistics for a trimester 
+-Conduct an attendance spot check at least once every trimester for every module.
+-date of spot check can be manually or randomly set
+-The time of spot check can be manually or randomly set but can only be from the 60% point onwards of the lesson duration.
+
+Q)Features of the system
+-Easy-to-use
+-logistic-light
+-responsive system
+-Course calendar
+-Alarm
+
+Q)How does the users use the system?
+Students 
+-Login to the website using their student id
+-Select the lesson and enter
+-Student will be marked as present
+
+Lecturers
+-Login to the website using their lecturer id
+
+Adminstrators
+-Login to the website using their admin id
+
+
+Q)Components of the system
+A)
+  
+
+Software needed
+-Python: writing code
+-Json: database
+-Github: version control
