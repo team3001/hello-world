@@ -4,6 +4,48 @@
 
 # Requirements
 
+### User Story 1
+* As a user, the system should be easy to use so that users can navigate and complete the tasks easily.
+* This tasks is currently assigned to Alvin. It is currently work in progress.
+* ![Screenshot](Screenshots/)
+
+### User Story 2
+* As a user, the system should be secure and tamper proof so that unauthorised users will not be able to impersonate or gain access to the system
+* This tasks is currently assigned to Vinok. It is currently work in progress.
+* ![Screenshot](Screenshots/)
+
+### User Story 3
+* As a student, the system should capture and update my attendance almost instantly so that my attendance status is accurate.
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
+* ![Screenshot](Screenshots/)
+
+### User Story 4
+* As a adminstrator, the system should allow me to set up lesson time, location and student list so that students are able to use the system to record their attendance
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### User Story 5
+* As a adminstrator and lecturer, the system should allow me to view the attendance for a lesson and the overall attendance in the current trimester. The stats will be shown as charts
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### User Story 6
+* As as student, the system should allow me to view the overall attendance in the current trimester. The stats will be shown as charts
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### User Story 7
+* As a lecturer, the system should allow me to amend Student's attendance as there may be changes in attendance during lesson 
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### User Story 8
+* As a adminstrator, the system should allow me to amend Student's attendance as students who are absent have 48 hrs to submit an excuse request
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+
+
 *List several user stories (no more than 8) that describe the product requirements. For each user story that you include:*
 
 * *Include a URL link to the Jira user-story issue.*
