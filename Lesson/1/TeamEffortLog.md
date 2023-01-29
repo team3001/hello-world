@@ -2,7 +2,7 @@
 
 ## Dedrick Yong Run Kang
 
-### Sprint 1 (University Week 3):
+### Sprint 1 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 1. It took x hour 
 * Comments:
@@ -10,7 +10,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 2 (University Week 4):
+### Sprint 2 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 2. It took x hour 
 * Comments:
@@ -18,7 +18,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 3 (University Week 4):
+### Sprint 3 (University Week 6):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 3. It took x hour 
 * Comments:
@@ -28,7 +28,7 @@
 
 ## Alvin Ong Wei Jun
 
-### Sprint 1 (University Week 3):
+### Sprint 1 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 1. It took x hour 
 * Comments:
@@ -36,7 +36,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 2 (University Week 4):
+### Sprint 2 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 2. It took x hour 
 * Comments:
@@ -44,7 +44,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 3 (University Week 4):
+### Sprint 3 (University Week 6):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 3. It took x hour 
 * Comments:
@@ -54,7 +54,7 @@
 
 ## Lau Zhi Wei
 
-### Sprint 1 (University Week 3):
+### Sprint 1 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 1. It took x hour 
 * Comments:
@@ -62,7 +62,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 2 (University Week 4):
+### Sprint 2 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 2. It took x hour 
 * Comments:
@@ -70,7 +70,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 3 (University Week 4):
+### Sprint 3 (University Week 6):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 3. It took x hour 
 * Comments:
@@ -80,7 +80,7 @@
 
 ## Thirugnanasambandam Vinoth Kumar
 
-### Sprint 1 (University Week 3):
+### Sprint 1 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 1. It took x hour 
 * Comments:
@@ -88,7 +88,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 2 (University Week 4):
+### Sprint 2 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 2. It took x hour 
 * Comments:
@@ -96,7 +96,7 @@
 * Describe any java coding 
 * ![Link to github commits](Screenshots/)
 
-### Sprint 3 (University Week 4):
+### Sprint 3 (University Week 6):
 * ![Link to Task ](Screenshots/)
 * It was set in sprint 3. It took x hour 
 * Comments:
