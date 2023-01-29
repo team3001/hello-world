@@ -99,6 +99,19 @@
 * This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
+## Risk Log
+
+### Risk Issue 1
+*Description:
+*Summary: 
+*Impact: 
+*Likilihood: 
+*Actions taken to resolve this issue:
+* This tasks is not worked on yet. 
+* ![Screenshot](Screenshots/)
+
+
+
 *List several user stories (no more than 8) that describe the product requirements. For each user story that you include:*
 
 * *Include a URL link to the Jira user-story issue.*
@@ -112,7 +125,6 @@
 
 *When marking this section we will be looking to see your team has understood the correct way to represent User-Stories and one or more other requirement modelling methods, and the requirements listed are giving as much relevant information for the development team as possible.*
 
-## Risk Log
 
 *In this section list the risks you have identified for your project.  For each Risk identified:*
 
