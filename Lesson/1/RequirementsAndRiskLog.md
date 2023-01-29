@@ -4,47 +4,100 @@
 
 # Requirements
 
+## Functional Requirements
 ### User Story 1
 * As a user, the system should be easy to use so that users can navigate and complete the tasks easily.
 * This tasks is currently assigned to Alvin. It is currently work in progress.
 * ![Screenshot](Screenshots/)
+
+### Use Case 1
+* Primary Actor: All users (Students/Administrators/Lecturers)
+* Story: Users of the system should be able to click on the various tabs in the app and understand the purpose of each tab and how it works.
 
 ### User Story 2
 * As a user, the system should be secure and tamper proof so that unauthorised users will not be able to impersonate or gain access to the system
 * This tasks is currently assigned to Vinok. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
+### Use Case 2
+* Primary Actor: All users (Students/Administrators/Lecturers)
+* Story: Users of the system will input their respective id and password
+* Users will click login
+* If the login credentials are incorrect, it will prompt the user that the login details are incorrect and login again
+* Users will be prompted to key in the code that was sent to them
+* Users will key in the code and click submit 
+* If the code is incorrect, it will prompt the user that the code is incorrect and give the user option to resend the code again
+* If the code is correct, users wiil login to the system successfully
+
 ### User Story 3
-* As a student, the system should capture and update my attendance almost instantly so that my attendance status is accurate.
+* As a student, the system should capture and update my attendance within 1 minute so that my attendance status is accurate.
 * This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
+
+### Use Case 3
+* Primary Actor: Student
+* Story: Student login to the system. 
+* Student selects module code, lesson time, lesson date 
+* Student clicks submit 
+* If the student submits their attendance 15 minutes before lesson start time, their attendance will be marked "Present"
+* If the student is not found in the list, their attendance will be marked "Present Visitor"
+* There will be an alert window to inform that their attendance have been marked "Present"
+* If the student submits their attendance after lesson start, their attendance will be marked "Late"
+* If the student is not found in the list, their attendance will be marked "Late Visitor"
+* If the student does not submit their attendance by end of lesson, their attendance will be marked "Absent" by default
+* Once the student have submitted their attendance, they should be able to see their attendance within 1 minute after submission
 
 ### User Story 4
 * As a adminstrator, the system should allow me to set up lesson time, location and student list so that students are able to use the system to record their attendance
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
+### Use Case 4
+* Primary Actor: 
+* Story:
+
 ### User Story 5
 * As a adminstrator and lecturer, the system should allow me to view the attendance for a lesson and the overall attendance in the current trimester. The stats will be shown as charts
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
+
+### Use Case 5
+* Primary Actor: 
+* Story:
 
 ### User Story 6
 * As as student, the system should allow me to view the overall attendance in the current trimester. The stats will be shown as charts
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
+### Use Case 6
+* Primary Actor: 
+* Story:
+
 ### User Story 7
 * As a lecturer, the system should allow me to amend Student's attendance as there may be changes in attendance during lesson 
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
+
+### Use Case 7
+* Primary Actor: 
+* Story:
 
 ### User Story 8
 * As a adminstrator, the system should allow me to amend Student's attendance as students who are absent have 48 hrs to submit an excuse request
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
+### Use Case 8
+* Primary Actor: 
+* Story:
 
+## Non-Functional Requirements
+
+### User Story 3
+* As a student, the system should capture and update my attendance within 1 minute so that my attendance status is accurate.
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
+* ![Screenshot](Screenshots/)
 
 *List several user stories (no more than 8) that describe the product requirements. For each user story that you include:*
 
