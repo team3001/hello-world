@@ -53,8 +53,11 @@
 * ![Screenshot](Screenshots/)
 
 ### Use Case 4
-* Primary Actor: 
-* Story:
+* Primary Actor: Administrator and Student
+* Story: Before semester start, the administrator will input the lesson time, location , lesson module and student list in the database
+* Before lesson start, student will be able to select the lesson time, location and module code and submit their attendance
+* This is because the data is alreadly set by the administrator
+* If the administrator does not do this, their name will not be in the student list and their attendance status will be recorded as Present Visitor 
 
 ### User Story 5
 * As a adminstrator and lecturer, the system should allow me to view the attendance for a lesson and the overall attendance in the current trimester. The stats will be shown as charts
@@ -66,7 +69,7 @@
 * Story:
 
 ### User Story 6
-* As as student, the system should allow me to view the overall attendance in the current trimester. The stats will be shown as charts
+* As a adminstrator, the system should allow me to set a attendance spot check manually to ensure that all students are on time
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
@@ -75,7 +78,7 @@
 * Story:
 
 ### User Story 7
-* As a lecturer, the system should allow me to amend Student's attendance as there may be changes in attendance during lesson 
+* As a adminstrator, the system should allow me to amend Student's attendance as students who are absent have 48 hrs to submit an excuse request
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
@@ -84,7 +87,7 @@
 * Story:
 
 ### User Story 8
-* As a adminstrator, the system should allow me to amend Student's attendance as students who are absent have 48 hrs to submit an excuse request
+* As a adminstrator, the system should allow me to review a student's excuse and amend their attendance status accordingly as students may have a valid reason for missing lesson
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
@@ -92,9 +95,50 @@
 * Primary Actor: 
 * Story:
 
+### User Story 9
+* As a adminstrator, the system should allow me to amend Student's attendance as students who are absent have 48 hrs to submit an excuse request
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### User Story 9
+* As a student, the system should allow me to submit my attendance as it will record my attendance status
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### Use Case 9
+* Primary Actor: 
+* Story:
+
+### User Story 10
+* As a student, the system should allow me to submit their attendance within a 15 min window after lesson start as it will automatically marked students late after that
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### Use Case 10 
+* Primary Actor: 
+* Story:
+
+### User Story 11
+* As a student, the system should allow me to set notifications to remind them that lesson date in advance so that they will not miss their lessons
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### Use Case 11
+* Primary Actor: 
+* Story:
+
+### User Story 12
+* As a student, the system should warn me if my attendance falls below the requirements so that i will be aware about it 
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### Use Case 12
+* Primary Actor: 
+* Story:
+
 ## Non-Functional Requirements
 
-### User Story 3
+### User Story 14
 * As a student, the system should capture and update my attendance within 1 minute so that my attendance status is accurate.
 * This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
@@ -109,7 +153,6 @@
 *Actions taken to resolve this issue:
 * This tasks is not worked on yet. 
 * ![Screenshot](Screenshots/)
-
 
 
 *List several user stories (no more than 8) that describe the product requirements. For each user story that you include:*
