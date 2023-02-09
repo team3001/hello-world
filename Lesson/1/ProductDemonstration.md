@@ -1,12 +1,14 @@
 # Product Demonstration Report
 
-* ![UI UX Design: Login Page](Screenshots/)
+## Login Page 
+<img src="https://github.com/team3001/hello-world/blob/main/Screenshots/Dashboard%20Login.jpg"  width="60%" height="30%"> <br>
 * Each type of users will have a different identification id such as C for students etc
 * User will input their kaplan email address and password 
 * After User clicks on Login, they will receive the authenticate popup in the google platform in their mobile device
 * After User have authenticated the login on their mobile device, they have successfully login to the system
 
-* ![UI UX Design: Web](Screenshots/)
+## Web Dashboard Page
+<img src="https://github.com/team3001/hello-world/blob/main/Screenshots/Desktop-Dashboard%20(Online%20Higher%20Ed%20Student%20).jpg"  width="60%" height="30%"> <br>
 * After students have login to the system, they will be able to see this page
 * This is the dashboard page where students can view an overview summary of their modules such as attendance,statistics etc
 * There are several features in the page below 
@@ -26,15 +28,22 @@
 * Assignment Status
   * Users will be able to view the current status of their assignment and be aware of the assignment deadline
 
-* ![UI UX Design: Mobile](Screenshots/)
+## Mobile Dashboard Page
+<img src = "https://github.com/team3001/hello-world/blob/main/Screenshots/Mobile-Dashboard%20(Online%20Higher%20Ed%20Student%20).jpg"  width="20%" height="10%"> <br>
 * The mobile version works the same as the web version
 
-* ![Code: Record Attendance for Student](Screenshots/)
-* 
+## Code Part 1a
+<img src="https://github.com/team3001/hello-world/blob/main/Screenshots/code_part_1a.png"  width="35%" height="35%"> <br>
 
-* *Include screenshots (actual screenshots, not mock ups) of all of the facets of the product working.*
-* *Link consecutive screenshots together with a brief narrative explaining how the product works, e.g. a sentence "Click on OK and it takes you to the next window", "On starting the app, the following window is shown".  This document should not take you a long time to create - it's just pasting photos and adding explanatory sentences between them, so that your MVP is adequately described.*
-* *Make sure an image of each window of your software is included - so that a person who has not seen the actual demo of the product has a good idea of what your product currently does.*
-* *If your product is a physical device (a hardware product) then you may replace all of the above screenshots by actual photos/vidoes where you feel it is appropriate.*
-* *Make sure this section includes any functionality/features you are particularly proud of.*
-* *Indicate clearly which parts of the functionality shown in the screenshots are currently incomplete, and what is likely to change in the final version.  For example if a graph displayed is currently based on static hard-coded data for the MVP, but in the future version the graph will dynamically change depending on fresh data, then point this out explicitly.*
+## Code Part 1b
+<img src="https://github.com/team3001/hello-world/blob/main/Screenshots/code_part_1b.png"  width="35%" height="35%"> <br>
+
+## Code Part 2a
+<img src="https://github.com/team3001/hello-world/blob/main/Screenshots/code_part_2a.png"  width="35%" height="35%"> <br>'
+
+## Code Part 2b
+<img src="https://github.com/team3001/hello-world/blob/main/Screenshots/code_part_2b.png"  width="35%" height="35%"> <br>
+
+## Code Part 3
+<img src="https://github.com/team3001/hello-world/blob/main/Screenshots/code_part_3.png"  width="35%" height="35%"> <br>
+
