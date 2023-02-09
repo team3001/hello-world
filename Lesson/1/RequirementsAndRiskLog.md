@@ -1,7 +1,5 @@
 # Requirements and Risk Log
 
-*In this markdown document, list all of the requirements that you have identified for your product so far.*
-
 # Requirements
 
 ## Functional Requirements
@@ -12,7 +10,7 @@
 
 ### Use Case 1
 * Primary Actor: All users (Students/Administrators/Lecturers)
-* Story: Users of the system should be able to ??
+* Story: Users of the system should be able to select features in the navigation menu. 
 
 ### User Story 2
 * As a user, the system should be secure and tamper proof so that unauthorised users will not be able to impersonate or gain access to the system
@@ -31,7 +29,7 @@
 
 ### User Story 3
 * As a student, the system should allow me to set alarms to remind them that lesson date in advance so that they will not miss their lessons
-* This tasks is not worked on yet
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
 ### Use Case 3
@@ -49,45 +47,54 @@
 * Story: The system should be able to send a notification automatically to inform me if my attendance falls below the requirements of a module 
 
 ### User Story 5
-* As a adminstrator and lecturer, the system should allow me to view the attendance for a lesson and the overall attendance in the current trimester. The stats will be shown as charts
+* As a student, the system should be allow me to view a summary of my attendance for all modules in the current trimester so that i'm able to know whether my attendance meets the requirements
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
 ### Use Case 5
+* Primary Actor: Student
+* Story: Students should be able to select/view the summary of their attendance in the current trimester. The summary can be shown in the form of percentage or charts
+
+### User Story 6
+* As a adminstrator and lecturer, the system should allow me to view the attendance for a lesson and the overall attendance in the current trimester. The stats will be shown as charts
+* This tasks is not worked on yet
+* ![Screenshot](Screenshots/)
+
+### Use Case 6
 * Primary Actor: Administrator/Lecturer
 * Story: After Administrator/Lecturer login to the system, they can select the module code, lesson date, lesson time. 
 * They should be able to view the attendance for a particular lesson and the overall attedance for a trimester. 
 * The stats will be shown in the form of charts
 
-### User Story 6
+### User Story 7
 * As a adminstrator, the system should allow me to set up lesson time, location and student list so that students will be able to select the relevant fields when they are submitting their attendance
 * This tasks is not worked on yet
 * ![Screenshot](Screenshots/)
 
-### Use Case 6
+### Use Case 7
 * Primary Actor: Administrator
 * Story: Before the start of each semester, the administrator will add the lesson time, module code and student list in the system
 * Students are able to view/select the information for the modules that they are currently taking in the semester
 * After students login in to the system, they will be able to view/select the upcoming lessons that they are currently taking in the semester
 
-### User Story 7
+### User Story 8
 * As a administrator, the system should allow me to set a attendance spot check manually to check the number of students that are physically present in the lesson
-* This tasks is not worked on yet
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 7
+### Use Case 8
 * Primary Actor: Administrator 
 * Story: Administrator selects the date and time of spot check. 
 * The time should be set only from 60% mark of the lesson duration
 * If students who are physically present during the spot check, their attendance status remain unchanged
 * If students who are no longer physically present during the spot check, their attendance status will be updated to Left Early
 
-### User Story 8
+### User Story 9
 * As a administrator, the system should allow me to amend Student's attendance as students who are absent have 48 hrs to submit an excuse request
-* This tasks is not worked on yet
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 8
+### Use Case 9
 * Primary Actor: Administrator 
 * Story: Administrator can select a student id and student name
 * They should be able to view whether a student have submitted an excuse application request
@@ -98,21 +105,21 @@
 
 ## Non-Functional Requirements
 
-### User Story 9
+### User Story 10
 * As a student, the system should capture and update my attendance within 1 minute so that my attendance status is accurate.
 * This tasks is not worked on yet. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 9
+### Use Case 11
 * Primary Actor: Student
 * Story: The attendance status should be reflected in the system within 1 minute after students have submitted their attendance
 
-### User Story 10
+### User Story 12
 * As a student, the system should allow me to submit my attendance within a 15 min window after lesson start as it will automatically marked students late after that
 * This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 10
+### Use Case 12
 * Primary Actor: Student
 * Story: After students login to the system, they selects module code, lesson time, lesson date 
 * Student clicks submit 
@@ -124,12 +131,12 @@
 * If the student does not submit their attendance by end of lesson, their attendance will be marked "Absent" by default
 * Once the student have submitted their attendance, they should be able to see their attendance within 1 minute after submission
 
-### User Story 11
+### User Story 13
 * As a student, the system should allow me to apply for excuse 2 days after lesson start so that my attendance status will not be marked as absent
-* This tasks is not worked on yet
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 11
+### Use Case 13
 * Primary Actor: Student
 * Story: Student can apply for excuse 2 days after lesson start
 * They should be able to submit any documentation and description of the excuse
@@ -137,50 +144,35 @@
 * If their excuse is appproved, their attendance status will be updated to Absent with Excuse
 * If their excuse is not approved, their attendance status will remain unchanged
 
-### User Story 12
+### User Story 14
 * As a adminstrator, the system should allow me to amend their attendance status up to 7 days after the lesson as students may have a valid reason for missing lesson
-* This tasks is not worked on yet
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 12
+### Use Case 14
 * Primary Actor: Administrator
 * Story: Administrator can select a student id and student name
 * They should be able to amend a student's attendance status up to 7 days after lesson day 
 * The student's attendance status should be updated after amendment
 
+## Risk Log 
+*Note: Risks are measured by a scale of 1-5 (1- lowest impact to 5- highest impact)
 
-## Risk Log
+### Risk Issue 1 
+*Description: Building a 2FA login using Google Authenticator is new learning curve to our team and may take longer time than expected to complete
+*Impact: 3
+*Likilihood: 3
+*Risk response strategy: Risk Research
+*Actions taken to resolve this issue: We researched on this login method and felt it was viable to implement it for our project
+*We will continue to research on whether this login method is possible to implement based on the timeline and the difficulty level and pivot accordingly
 
-### Risk Issue 1
-*Description:
-*Summary: 
-*Impact: 
-*Likilihood: 
-*Actions taken to resolve this issue:
-* This tasks is not worked on yet. 
-* ![Screenshot](Screenshots/)
+### Risk Issue 2
+*Description: Client may add/change the requirements of the project
+*Impact: 5
+*Likilihood: 5
+*Actions taken to resolve this issue: Risk Reduction / Active Acceptance
+*We did not integrate the code with the ui/ux design yet as there is a possiblity that we have to edit our work due to additional/change of requirements. 
+*Hence we reduce this risk by doing it in parts and will change it accordingly before integrating everything into one final product 
+*There is always a possiblity where the client changes the project requirements. We need to actively adapt to these changes and pivot accordingly.
 
-
-*List several user stories (no more than 8) that describe the product requirements. For each user story that you include:*
-
-* *Include a URL link to the Jira user-story issue.*
-* *Paste in the Story Description and Story Summary from Jira.  Attempt to keep story summaries in the form taught in the lectures, i.e. the form "As a [persona], I [want to], [so that]".  Feel free to update your Jira issues into this form if they are not already.*
-* *Give details of whether this story has been assigned to someone yet, and whether it is completed yet.*
-* *Include a screenshots of any relevant attachments.*
-
-*In addition to user stories (which is the main thing we are trying to teach for agile), try to include one or two other requirement modelling techniques, e.g. as listed in the lecture.*
-
-*Try to group the requirements under two sub-headings: functional requirements, and non-functional requirements.*
-
-*When marking this section we will be looking to see your team has understood the correct way to represent User-Stories and one or more other requirement modelling methods, and the requirements listed are giving as much relevant information for the development team as possible.*
-
-
-*In this section list the risks you have identified for your project.  For each Risk identified:*
-
-* *Include a URL link to the Jira risk issue.* 
-* *Paste in the Risk's Description and Summary from Jira.  Also state the Impact and Likilihood.*
-* *Give details of whether this story has been assigned to someone yet, and whether it is completed yet.*
-* *Include, from the Jira description / comments, details of what mitigating actions are being taking and by whom.*
-
-*When marking this section we will be looking to see several realistic risks have been noted, and are actively being tracked and mitigated against.*
 
