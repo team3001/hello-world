@@ -1,8 +1,5 @@
 # Team Effort Log
 
-Sprint 1 :  till 4 Feb 
-Spring 2 : until 7 Feb
-
 ## Dedrick Yong Run Kang
 
 ### Sprint 1 (University Week 5):
