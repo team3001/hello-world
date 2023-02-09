@@ -110,16 +110,16 @@
 * This tasks is not worked on yet. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 11
+### Use Case 10
 * Primary Actor: Student
 * Story: The attendance status should be reflected in the system within 1 minute after students have submitted their attendance
 
-### User Story 12
+### User Story 11
 * As a student, the system should allow me to submit my attendance within a 15 min window after lesson start as it will automatically marked students late after that
 * This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 12
+### Use Case 11
 * Primary Actor: Student
 * Story: After students login to the system, they selects module code, lesson time, lesson date 
 * Student clicks submit 
@@ -131,12 +131,12 @@
 * If the student does not submit their attendance by end of lesson, their attendance will be marked "Absent" by default
 * Once the student have submitted their attendance, they should be able to see their attendance within 1 minute after submission
 
-### User Story 13
+### User Story 12
 * As a student, the system should allow me to apply for excuse 2 days after lesson start so that my attendance status will not be marked as absent
 * This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 13
+### Use Case 12
 * Primary Actor: Student
 * Story: Student can apply for excuse 2 days after lesson start
 * They should be able to submit any documentation and description of the excuse
@@ -144,15 +144,26 @@
 * If their excuse is appproved, their attendance status will be updated to Absent with Excuse
 * If their excuse is not approved, their attendance status will remain unchanged
 
-### User Story 14
+### User Story 13
 * As a adminstrator, the system should allow me to amend their attendance status up to 7 days after the lesson as students may have a valid reason for missing lesson
 * This tasks is currently assigned to Zhi Wei. It is currently work in progress.
 * ![Screenshot](Screenshots/)
 
-### Use Case 14
+### Use Case 13
 * Primary Actor: Administrator
 * Story: Administrator can select a student id and student name
 * They should be able to amend a student's attendance status up to 7 days after lesson day 
+* The student's attendance status should be updated after amendment
+
+### User Story 14
+* As a lecturer, the system should allow me to amend Student's attendance up till midnight on lesson day as their attendance status may change during the lesson
+* This tasks is currently assigned to Zhi Wei. It is currently work in progress.
+* ![Screenshot](Screenshots/)
+
+### Use Case 14
+* Primary Actor: Lecturer
+* Story: Lecturer selects a student id and student name
+* They should be able to amend a student's attendance status till midnight after lesson day 
 * The student's attendance status should be updated after amendment
 
 ## Risk Log 
