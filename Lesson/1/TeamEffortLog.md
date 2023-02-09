@@ -47,8 +47,6 @@
  * Lecturers will be allowed to amend the attendance status of a student 
  * Admin will be able to update the students attendance
  * Admin will be able  to amend the attendance status 
- * 
- * 
 
 ### Sprint 1 (University Week 5):
 * ![Link to Task ](Screenshots/)
