@@ -159,7 +159,7 @@
 *Note: Risks are measured by a scale of 1-5 (1- lowest impact to 5- highest impact)
 
 ### Risk Issue 1 
-* Description: Building a 2FA login using Google Authenticator is new learning curve to our team and may take longer time than expected to complete
+* Description: Building a 2FA login using Authenticator is new learning curve to our team and may take longer time than expected to complete
 * Impact: 3
 * Likilihood: 3
 * Risk response strategy: Risk Research
