@@ -159,20 +159,20 @@
 *Note: Risks are measured by a scale of 1-5 (1- lowest impact to 5- highest impact)
 
 ### Risk Issue 1 
-*Description: Building a 2FA login using Google Authenticator is new learning curve to our team and may take longer time than expected to complete
-*Impact: 3
-*Likilihood: 3
-*Risk response strategy: Risk Research
-*Actions taken to resolve this issue: We researched on this login method and felt it was viable to implement it for our project
-*We will continue to research on whether this login method is possible to implement based on the timeline and the difficulty level and pivot accordingly
+* Description: Building a 2FA login using Google Authenticator is new learning curve to our team and may take longer time than expected to complete
+* Impact: 3
+* Likilihood: 3
+* Risk response strategy: Risk Research
+* Actions taken to resolve this issue: We researched on this login method and felt it was viable to implement it for our project
+* We will continue to research on whether this login method is possible to implement based on the timeline and the difficulty level and pivot accordingly
 
 ### Risk Issue 2
-*Description: Client may add/change the requirements of the project
-*Impact: 5
-*Likilihood: 5
-*Actions taken to resolve this issue: Risk Reduction / Active Acceptance
-*We did not integrate the code with the ui/ux design yet as there is a possiblity that we have to edit our work due to additional/change of requirements. 
-*Hence we reduce this risk by doing it in parts and will change it accordingly before integrating everything into one final product 
-*There is always a possiblity where the client changes the project requirements. We need to actively adapt to these changes and pivot accordingly.
+* Description: Client may add/change the requirements of the project
+* Impact: 5
+* Likilihood: 5
+* Actions taken to resolve this issue: Risk Reduction / Active Acceptance
+* We did not integrate the code with the ui/ux design yet as there is a possiblity that we have to edit our work due to additional/change of requirements. 
+* Hence we reduce this risk by doing it in parts and will change it accordingly before integrating everything into one final product 
+* There is always a possiblity where the client changes the project requirements. We need to actively adapt to these changes and pivot accordingly.
 
 
