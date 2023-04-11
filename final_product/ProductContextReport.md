@@ -29,13 +29,13 @@ Hence it will give the customer confidence that their data will not be misused o
 
 
 ## Ethical <br>
-Consider any ethical issues that have arisen or are associated with your product.
--Privacy: Although students have given their personal data and their consent when using the attendance system, it is not ethical if the school choose to sell the student’s personal information for profit.
--Location tracking: Student attendance management that uses RFID cards has the ability to track the student’s location when he/she carry the card around
--Discrimination:
-The platform is not customized for students with disabilities. 
-- Hence the system may be deemed as discrimination against these students. 
-Facial recognition system is inaccurate among women and people of color unlike white people. This can lead to unjust arrests in the law enforcement context 	
+Consider any ethical issues that have arisen or are associated with your product. <br>
+-Privacy: Although students have given their personal data and their consent when using the attendance system, it is not ethical if the school choose to sell the student’s personal information for profit. <br>
+-Location tracking: Student attendance management that uses RFID cards has the ability to track the student’s location when he/she carry the card around <br>
+-Discrimination: <br>
+The platform is not customized for students with disabilities.  <br>
+- Hence the system may be deemed as discrimination against these students.  <br>
+Facial recognition system is inaccurate among women and people of color unlike white people. This can lead to unjust arrests in the law enforcement context. <br>
 
 
 ## Health and Safety <br>
