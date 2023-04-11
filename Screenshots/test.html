@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title> dashboard </title>
+    <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style1.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<!--wrapper start-->
+<div class="wrapper">
+    <!--header menu start-->
+    <div class="header">
+        <div class="header-menu">
+            <div class="title"> Home </div>
+            <div class="sidebar-btn">
+                <i class="fa-solid fa-bars"></i></i>
+            </div>
+            <ul>
+                <li><a href="#"><i class="fa-solid fa-search"></i></a> </li>
+                <li><a href="#"><i class="fa-solid fa-bell"></i></a> </li>
+                <li><a href="#"><i class="fa-solid fa-power-off"></i></a> </li>
+            </ul>
+        </div>
+    </div>
+    <!--header menu end-->
+    <!--sidebar start-->
+    <div class="sidebar">
+        <div class="sidebar-menu">
+            <div style="text-align: center" class="kaplan">
+                <img src="th.jpeg" alt="">
+                <p> student attendance system </p>
+            </div>
+            <li class="item">
+                <a href="#" class="menu-btn">
+                    <i class="fas fa-desktop"></i><span>Dashboard</span>
+                </a>
+            </li>
+            <li class="item" id="home">
+                <a href="#home" class="menu-btn">
+                    <i class="fas fa-house"></i><span>Home</span></a>
+            </li>
+            <li class="item" id="calendar">
+                <a href="#calendar" class="menu-btn">
+                    <i class="fas fa-calendar"></i><span>Calendar</i></span></a>
+            </li>
+            <li class="item" id="aoe">
+                <a href="#aoe" class="menu-btn">
+                    <i class="fas fa-star"></i><span>Apply for excuse<i class="fas fa-chevron-down drop-down"></i></span>
+                </a>
+                <div class="sub-menu">
+                    <a href="#"><i class="fas fa-image"></i><span>New apply</span></a>
+                    <a href="#"><i class="fas fa-address-card"></i><span>Status</span></a>
+                </div>
+            </li>
+        </div>
+    </div>
+    <!--sidebar end-->
+
+    <!--main container start-->
+    <div class="main-container">
+        <div class="center">
+            <nav class="navbar">
+                <li><a href="#"> Attendance submission </a></li>
+                <ul class="menu">
+                    <li><a href="#"> CE202+ </a></li>
+                    <ul class="submenu">
+                        <li><a href="#"> 11/04/2023 </a></li>
+                        <ul class="submenu2">
+                            <li><a href="#"> 2pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance.html"> Room1 </a></li>
+                            </ul>
+                            <li><a href="#"> 6.30pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance.html"> Room4 </a></li>
+                            </ul>
+                        </ul>
+                        <li><a href="#"> 13/04/2023 </a></li>
+                        <ul class="submenu2">
+                            <li><a href="attendance.html"> 2pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance.html"> Room8 </a></li>
+                            </ul>
+                            <li><a href="#"> 6.30pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance.html"> Room5 </a></li>
+                            </ul>
+                        </ul>
+                    </ul>
+                    <li><a href="#"> CE299+ </a></li>
+                    <ul class="submenu">
+                        <li><a href="#"> 13/04/2023 </a></li>
+                        <ul class="submenu2">
+                            <li><a href="#"> 9pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance1.html"> Room2  </a></li>
+                            </ul>
+                            <li><a href="#"> 6.30pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance1.html"> Room6 </a></li>
+                            </ul>
+                        </ul>
+                        <li><a href="#"> 15/04/2023 </a></li>
+                        <ul class="submenu2">
+                            <li><a href="#"> 9pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance1.html"> Room7 </a></li>
+                            </ul>
+                            <li><a href="#"> 6.30pm </a></li>
+                            <ul class="submenu3">
+                                <li><a href="attendance1.html"> Room5 </a></li>
+                            </ul>
+                        </ul>
+                    </ul>
+                </ul>
+            </nav>
+
+        </div>
+        <!--main container end-->
+    </div>
+
+    <!--wrapper end-->
+
+    <script type="text/javascript">
+    $(document).ready(function()
+    {
+      $(".sidebar-btn").click(function(){
+        $(".wrapper").toggleClass("collapse");});
+    });
+   </script>
+</div>
