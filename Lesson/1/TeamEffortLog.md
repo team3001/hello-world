@@ -71,7 +71,7 @@
 ### Sprint 1 (University Week 5):
 * ![Link to Task ](Screenshots/)
 * My task is to develop a login system using 2FA and authenticator
-* It was set in sprint 1. It took ? hour 
+* It was set in sprint 1. It took 3 days 
 * Comments: I researched on the different platforms using authentication. 
 * I began to study and learn how the google and microsoft platforms work and developed
 * Output: I developed and tested sample code using the basic authentication and QR code authentication functions in both platforms
@@ -80,13 +80,20 @@
 ### Sprint 2 (University Week 6):
 * ![Link to Task ](Screenshots/)
 * My task is to develop a login system using 2FA and authenticator
-* It was set in sprint 2 . It took ? hour 
+* It was set in sprint 2 . It took 1 week
 * Comments: After testing both platforms, i decided on the Microsoft platform
 * While working on the platform, I realise that Microsoft azure don’t allow us to use the security function. As security is the core purpose of authentication, i decided to drop the platform and research into another platform
 * After doing much research and discussion with my team, i started to build the authentication part using google service. 
 * As Google service offers a wide array of scopes to enhance the security of a platform, i studied all these scopes so that i can implement it in my code
 * Output: I have implement few of these scopes successfully in my test project using the Google Service platform.  
 * ![Link to github commits](Screenshots/)
+
+### Sprint 3 (University Week 8):
+* My task is to develope the student home page with attedance submission function and do the UI Designe for the home page.
+* It was set in sprint 3. it took 2 week
+* Comments: After that the MVP, the direction of the coding was changed to do only special feature. Hence we decide to make a special function, to be convient and smooth submission for the student prespective. i research on different method, but the first function i want to do was button function. i did alot of reasearch on how can i implement the onclick function using button. However, the button feature cannot be done the way i wanted. so i decided to chance the method to use the side bar for menu and nav bar for the submission process.
+* output: i manage to implement the both function however one of the hover function wasnt able to function.
+
 
 *In this section, add a heading for each team member, and under it add the sub headings "Sprint 1, Sprint 2, ..., Sprint N", as illustrated below.  Each team member can be responsible for writing their own section.*
 
